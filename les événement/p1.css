@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(450deg, purple, cyan, blue);
+}
+
+.title{
+    color: brown;
+    text-align: center;
+}
+
+#formContainer{
+    text-align: center;
+    color: rgba(212, 44, 44, 0.791);
+    border: solid;
+    border-radius: 10px;
+    border-color: crimson;
+    width: 450px;
+    height: 450px;
+    margin-left: 400px;
+    margin-top: 70px; 
+}
